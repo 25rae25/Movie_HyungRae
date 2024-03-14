@@ -7,8 +7,8 @@ import Footer from "@/components/Footer";
 const sans = Open_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "next1@13.2.4 Blog",
-	description: "next@13.2.4 Blog 입니다",
+	title: "조형래 촬영감독",
+	description: "조형래감독 영화입니다",
 };
 
 export default function RootLayout({
