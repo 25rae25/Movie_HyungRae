@@ -4,15 +4,15 @@
     "description": "Troll Factory",
     "date": "2024-03-27",
     "category": "my story",
-    "path": "손석구, 김성철, 김동휘 주연",
-    "featured": false
+    "path": "unit",
+    "featured": true
   },
   {
     "title": "길복순",
     "description": "Kill Boksoon",
     "date": "2023-03-31",
     "category": "javascript",
-    "path": "전도연, 설경구, 구교환 주연",
+    "path": "killbol",
     "featured": true
   },
   {
@@ -20,23 +20,23 @@
     "description": "Concreate Utopia",
     "date": "2023-08-09",
     "category": "javascript",
-    "path": "이병헌, 박보영, 박서준 주연",
-    "featured": false
+    "path": "conuu",
+    "featured": true
   },
   {
     "title": "킹메이커",
     "description": "Kingmaker",
     "date": "2022-08-21",
     "category": "backend",
-    "path": "설경구, 이선균 주연",
-    "featured": false
+    "path": "kingmaker",
+    "featured": true
   },
   {
     "title": "판소리 복서",
     "description": "My punch-drunk boxer",
     "date": "2019-10-09",
     "category": "frontend",
-    "path": "엄태구, 해리, 김희원 주연",
+    "path": "pansori",
     "featured": true
   },
   {
@@ -44,15 +44,15 @@
     "description": "Tune in for Love",
     "date": "2019-08-28",
     "category": "my story",
-    "path": "정해인, 김고은 주연",
-    "featured": false
+    "path": "music",
+    "featured": true
   },
   {
     "title": "기묘한 가족",
     "description": "THE ODD FAMILY:ZOMBIE ON SALE",
     "date": "2019-02-13",
     "category": "backend",
-    "path": "정재영, 김남길, 엄지원 주연",
+    "path": "family",
     "featured": true
   },
   {
@@ -60,7 +60,7 @@
     "description": "The Merciless",
     "date": "2017-05-17",
     "category": "frontend",
-    "path": "설경구, 임시완 주연",
+    "path": "fire",
     "featured": true
   },
   {
@@ -68,7 +68,7 @@
     "description": "4th Place",
     "date": "2016-04-13",
     "category": "my story",
-    "path": "박해준, 최무성 주연",
+    "path": "four",
     "featured": true
   }
 ]
