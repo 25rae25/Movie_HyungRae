@@ -3,7 +3,7 @@
     "title": "댓글부대",
     "description": "Troll Factory",
     "date": "2024-03-27",
-    "category": "my story",
+    "category": "crime",
     "path": "unit",
     "featured": true
   },
@@ -11,7 +11,7 @@
     "title": "길복순",
     "description": "Kill Boksoon",
     "date": "2023-03-31",
-    "category": "javascript",
+    "category": "action",
     "path": "killbol",
     "featured": true
   },
@@ -19,7 +19,7 @@
     "title": "콘크리트 유토피아",
     "description": "Concreate Utopia",
     "date": "2023-08-09",
-    "category": "javascript",
+    "category": "drama",
     "path": "conuu",
     "featured": true
   },
@@ -27,7 +27,7 @@
     "title": "킹메이커",
     "description": "Kingmaker",
     "date": "2022-08-21",
-    "category": "backend",
+    "category": "drama",
     "path": "kingmaker",
     "featured": true
   },
@@ -35,15 +35,15 @@
     "title": "판소리 복서",
     "description": "My punch-drunk boxer",
     "date": "2019-10-09",
-    "category": "frontend",
+    "category": "comdey",
     "path": "pansori",
-    "featured": true
+    "featured": false
   },
   {
     "title": "유열의 음악캠프",
     "description": "Tune in for Love",
     "date": "2019-08-28",
-    "category": "my story",
+    "category": "romance",
     "path": "music",
     "featured": true
   },
@@ -51,15 +51,15 @@
     "title": "기묘한 가족",
     "description": "THE ODD FAMILY:ZOMBIE ON SALE",
     "date": "2019-02-13",
-    "category": "backend",
+    "category": "comedy",
     "path": "family",
-    "featured": true
+    "featured": false
   },
   {
     "title": "불한당:나쁜 놈들의 세상",
     "description": "The Merciless",
     "date": "2017-05-17",
-    "category": "frontend",
+    "category": "crime",
     "path": "fire",
     "featured": true
   },
@@ -67,9 +67,9 @@
     "title": "4등",
     "description": "4th Place",
     "date": "2016-04-13",
-    "category": "my story",
+    "category": "drama",
     "path": "four",
-    "featured": true
+    "featured": false
   }
 ]
 
