@@ -1,24 +1,20 @@
-## about Node.js®
+<시놉시스>
 
-As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications. In the following "hello world" example, many connections can be handled concurrently. Upon each connection, the callback is fired, but if there is no work to be done, Node.js will sleep.
+"오늘 기적이 일어났어요."
+1994년 가수 유열이 라디오 DJ를 처음 진행하던 날,
+엄마가 남겨준 빵집에서 일하던 미수(김고은)는 우연히 찾아 온 현우(정해인)를 만나
+설레는 감정을 느끼게 되지만 뜻하지 않은 사건으로 인해 연락이 끊기게 된다.
 
-```js
-const http = require('http');
+"그때, 나는 네가 돌아오지 않을 거라고 생각했어. 그래도 기다렸는데…"
+다시 기적처럼 마주친 두 사람은 설렘과 애틋함 사이에서 마음을 키워 가지만 서로의 상황과 시간은 자꾸 어긋나기만 한다.
+계속되는 엇갈림 속에서도 라디오 ‘유열의 음악앨범’과 함께 우연과 필연을 반복하는 두 사람…
 
-const hostname = '127.0.0.1';
-const port = 3000;
+함께 듣던 라디오처럼 그들은 서로의 주파수를 맞출 수 있을까?
 
-const server = http.createServer((req, res) => {
-  res.statusCode = 200;
-  res.setHeader('Content-Type', 'text/plain');
-  res.end('Hello World');
-});
+<등장인물>
 
-server.listen(port, hostname, () => {
-  console.log(`Server running at http://${hostname}:${port}/`);
-});
-```
+미수 - 김고은
+현우 - 정해인
 
-This is in contrast to today's more common concurrency model, in which OS threads are employed. Thread-based networking is relatively inefficient and very difficult to use. Furthermore, users of Node.js are free from worries of dead-locking the process, since there are no locks. Almost no function in Node.js directly performs I/O, so the process never blocks except when the I/O is performed using synchronous methods of Node.js standard library. Because nothing blocks, scalable systems are very reasonable to develop in Node.js.
-
-If some of this language is unfamiliar, there is a full article on Blocking vs. Non-Blocking.
+<줄거리>
+설명하는 작품이나 인물 등에 대한 줄거리, 결말 반전 요소 등을 스포일러가 포함되어 설명이 불가합니다.

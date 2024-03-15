@@ -1,34 +1,29 @@
-## 2022 Year Review!
+<시놉시스>
 
-- Employee’s basic information. For identification and analysis purposes, it is also important that you add a section where the employee’s basic information can be written, including their name, ID, and position in the company.
-  Review period. To streamline the entire annual review process, it is critical that you add a section that states the period for which the review is being conducted.
-- Tasks to be evaluated. This is the main section of the annual review template, so mention all the yearly goals for which the employee is being evaluated.
-  Performance score rating. For each task mentioned earlier, make sure you leave adequate space where the reviewer can rate the employee's quality of work. You can do this through a 5-star review system, Likert scale or even by adding an empty box where reviewers can describe their evaluation. Some of
+수영이 좋지만 대회만 나가면 ‘만년 4등’인 초등학생 준호(유재상 분)가 엄마 정애(이항나 분)의 닦달에 코치 광수(박해준 분)를 만나게 되면서 엄한 체벌에 시달리게 되는 이야기.
+“맞아서라도 1등만 하면 좋겠다”는 엄마와, “맞아서라도 1등을 꼭 해야 하냐”는 아이, “때리는 스승이 진짜”라는 코치의 갈등의 이야기.
 
-## What Is an Annual Review?
+<등장인물>
 
-An annual review, or a year-end review, is the process of evaluating employee performance over the past year. Annual reviews are typically done by managers, but can also be self-conducted.
+김준호 - 유재상
+정애 - 이항나
+김영훈 - 김무성
+광수 - 박해준
 
-Generally, an annual performance assessment includes:
+<줄거리>
 
-Tracking employee KPIs
-Identifying employee's strengths and weaknesses
-Measuring employee quality of work
-Providing feedback on potential areas of improvement
-Needless to say, an annual review is a critical part of any successful business.
+수영대회에서 늘 4등만 하는 준호. 준호가 수영대회에서 1등하기를 바라던 정애는 성당에서 국가대표 출신 코치 광수를 소개받고, 바로 광수에게 준호를 가르쳐 달라고 부탁한다.
+광수는 승낙하지만, 매일 PC방에서 게임만 하다 퍼질러 자기 일쑤이다. 그러자 준호는 광수에게 자신의 수영 실력을 뽐내고 그때부터 광수의 훈련이 시작된다.
+그러나 광수의 방법은 폭력이었고, 준호에게 오리발, 플라스틱 빗자루, 나무 빗자루[8] 등으로 체벌한다.
+그리고 준호는 2등을 하게 되고, 가족들과 파티를 여는데, 동생 기호의 한마디에 분위기는 싸늘해지고,
+영훈은 준호가 체벌받은 사실을 알고 광수를 찾아가 체벌하지 말 것을 요구한다.
 
-It helps businesses identify high-performing employees, boost employee engagement, relay expectations, and help foster a progressive environment of growth and progress.
+그러나 광수는 아랑곳않고 또 나무 빗자루로 준호를 때리려 한다. 하지만 준호는 아빠 영훈의 회사로 도망쳐서는 아빠 영훈에게 수영을 그만 두겠다고 말하고,
+엄마 정애에게도 말하지만, 도리어 등짝스메싱을 여러 대 맞는다.그리고 정애는 기호에게 올인한다. 결국 밖에서 부부싸움이 벌어지고 말았고 기호가 그걸 지켜본다.
 
-On the other hand, employees can also use this time to communicate their future expectations to the company; be it their next year's KPIs, personal goals, monetary compensation, bonus structure breakdown, or expected promotions.
+같은 시각, 광수는 자신의 체벌을 본 여성 직원이 사장에게 말 하는 바람에 사장에게 해고 당하고, 그는 밖으로 뛰쳐나가고 말았다. 한편, 준호는 아무도 없는 수영장에 들어가 수영을 한다.
 
-At the end of an annual review, managers evaluate whether the company's future goals align with employees' objectives, and decide if they should be recommended for a raise or promotion in the coming year.
-
-## How to Write a Year-End Review
-
-When it comes to preparing for a year-end review, there isn’t any one-size-fits-all approach.
-
-This is majorly due to the type of industry you’re in, and the fact that every employee has unique goals for which they’re being evaluated. But that doesn't mean that you can’t create a generic layout for all performance reviews.
-
-In this section, we look at some of the most common sections you can add to your annual review templates:
-
-Header. The header is the first thing that the reviewer and reviewee will notice on the annual review document, so it's a good idea to add your company’s name, logo and branding to give it an overall professional outlook. In Visme, you can upload your logo with a few clicks and add it to any project.
+그러나 경비원에게 걸려 쫓겨나고, 정애는 준호에게 왜 그러냐고 묻는다, 그러자, 준호는 자신이 맞아서도 1등하기를 바라냐는 원망 섞인 질문을 하고, 정애는 자신의 잘못을 깨닫는다.
+그리고 준호는 광수를 찾아가서 자신을 체벌하지 않고 가르쳐 달라고 요구한다.
+그러나 광수는 비웃음으로 대처하고,준호에게 자신이 선수 시절 쓰던 수경을 주며 너 혼자 하라고 말한다. 그리고 오토바이를 타고 쌩하니 가버린다.
+그 뒤 준호는 1등을 한다.

@@ -1,18 +1,35 @@
-## What you should already know
+<시놉시스>
 
-This guide assumes you have the following basic background:
+회사에선 이름난 암살자. 집에선 십 대 딸을 둔 싱글맘. 죽이는 일? 그거야 쉽다. 진짜 어려운 건 애 키우는 일이지.
 
-A general understanding of the Internet and the World Wide Web (WWW).
-Good working knowledge of HyperText Markup Language (HTML).
-Some programming experience. If you are new to programming, try one of the tutorials linked on the main page about JavaScript.
-Where to find JavaScript information
-The JavaScript documentation on MDN includes the following:
+“사람 죽이는 건 심플해. 애 키우는 거에 비하면”
+‘청부살인’이 본업이지만 겉으로 보기에는
+평범한 이벤트 회사인 MK ENT. 소속 킬러 ‘길복순’(전도연)은
+‘작품’은 반드시 완수해 내는 성공률 100%의 킬러이자, 10대 딸을 둔 엄마다.
+업계에서는 아무도 범접할 수 없는 에이스지만, 딸 ‘재영’(김시아)과의 관계는 서툴기만 한 싱글맘인 그는 자신과 딸 사이의 벽을 허물기 위해 퇴사까지 결심한다.
+MK ENT. 대표 ‘차민규’(설경구)의 재계약 제안의 답을 미룬 채, 마지막 작품에 들어간 ‘복순’은
+임무에 숨겨진 진실을 알게 된 후, 회사가 허가한 일은 반드시 시도해야 한다는 규칙을 어기게 된다. 그 소식을 들은 MK ENT.는 물론, 모든 킬러들의 타겟이 되고야 마는데…
 
-- Learn Web Development provides information for beginners and introduces basic concepts of programming and the Internet.
-- JavaScript Guide (this guide) provides an overview about the JavaScript language and its objects.
-- JavaScript Reference provides detailed reference material for JavaScript.
-  If you are new to JavaScript, start with the articles in the learning area and the JavaScript Guide. Once you have a firm grasp of the fundamentals, you can use the JavaScript Reference to get more details on individual objects and statements.
+죽거나 죽이거나, 피할 수 없는 대결이 시작된다!
 
-## What is JavaScript?
+<등장인물>
 
-JavaScript is a cross-platform, object-oriented scripting language used to make webpages interactive (e.g., having complex animations, clickable buttons, popup menus, etc.). There are also more advanced server side versions of JavaScript such as Node.js, which allow you to add more functionality to a website than downloading files (such as realtime collaboration between multiple computers). Inside a host environment (for example, a web browser), JavaScript can be connected to the objects of its environment to provide programmatic control over them.
+길복순 - 전도연
+차민규 - 설경구
+길재영 - 김시아
+차민희 - 이솜
+한회성 - 구교환
+
+<줄거리>
+팬티 차림의 남자(황정민)가 베개와 함께 맨바닥에 누워 있는 장면으로 영화가 시작된다. 추위를 느낀 남자는 호텔 방 창문을 열고 잤는지 의아해하며 깨어나는데,
+그가 누워 있는 곳은 어느 대교변. 곧 주인공 길복순(전도연)이 그를 불러 깨우고, 깨어난 남자는 자신을 재일교포 2세 야쿠자
+'오다 신이치로'(한국명은 김광일)임을 말해주며 복순에게 칼을 던져준다. 오다는 복순에게 왜 날 바로 죽이지 않았냐고 묻고, 복순은 딸 재영과 뉴스를 본 일화를 언급한다.
+부정 입학으로 대학에 들어간 건 공정한 경쟁이 아니라며 엄마에게 핀잔을 주었다고 말하면서,
+복순은 오다에게 동의를 얻어 가운과 칼을 주고 공정하게 승부하고자 한다.
+
+명인이 만든 칼을 쥔 오다와 마트에서 산 도끼(...)로 싸우던 복순은 몇 합을 주고받다가 특기인 '수 읽기'를 통해 오다에게 목이 잘릴 것을 예감하고 무기를
+바꾸겠다며 차로 가더니, 혼자 의기양양하게 오두방정을 떨며 승부 준비를 하던[3] 오다를 냅다 비겁하게 총으로 쏴버린다. 한국어로 "씨부럴 년...!"이라고 욕을 뱉는 오다에게
+복순은 "미안하지만 마트 문 닫을 시간"이라며 그를 확인사살한다.
+마트에서 장을 보고 집에 돌아온 복순. 복순은 집안일을 하면서 재영의 빨래를 걷다가 옷에서 담배가 떨어진 것을 발견하고 어린 시절을 회상한다.
+담배에 손댄 것을 뉘우치며 아버지와 함께 구원을 기도했는데, 복순의 아버지는 이내 딸에게 담배를 먹도록 강요하고 복순은 담배를 먹다 구토를 한다.
+회상을 하면서 담배를 피우던 복순은 집으로 온 재영을 맞이하고, 재영에게 담배에 대해 물어보려 하지만 실패한다.

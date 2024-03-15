@@ -1,24 +1,24 @@
-## about Node.js®
+<시놉시스>
 
-As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications. In the following "hello world" example, many connections can be handled concurrently. Upon each connection, the callback is fired, but if there is no work to be done, Node.js will sleep.
+나는 휘몰아칠 테니 너는 스텝을 밟아라!
+당신의 눈과 귀를 의심하게 할 취향저격 ‘판소리 복서’, 그가 온다!
 
-```js
-const http = require('http');
+한때 복싱 챔피언 유망주로 화려하게 주목 받던 전직 프로복서 ‘병구’(엄태구). 그러나 한 순간의 지울 수 없는 실수로 복싱협회에서 영구 제명이 되어버린 그는 ‘박관장’(김희원)의 배려로 체육관의 허드렛일을 도맡아 하며 살아가고 있다. 다시 복싱을 시작하려는 마음은 있지만 설상가상 뇌세포가 손상되는 ‘펀치드렁크(punchdrunk)’ 진단까지 받게 된 ‘병구’. 어느 날 ‘병구’가 뿌린 전단지를 들고 체육관을 찾은 신입관원 ‘민지’(이혜리)는 복싱에 대한 ‘병구’의 순수한 열정을 발견하고 그의 든든한 지원군이 되어준다.
 
-const hostname = '127.0.0.1';
-const port = 3000;
+‘민지’의 응원에 잊고 있었던 미완의 꿈이자 자신만의 스타일인 ‘판소리 복싱’을 완성하기로 결심한 ‘병구’는 생애 마지막이 될지도 모를 가장 무모한 도전을 시작한다.
 
-const server = http.createServer((req, res) => {
-  res.statusCode = 200;
-  res.setHeader('Content-Type', 'text/plain');
-  res.end('Hello World');
-});
+<등장인물>
 
-server.listen(port, hostname, () => {
-  console.log(`Server running at http://${hostname}:${port}/`);
-});
-```
+이혜리 - 민지 역
+김희원 - 박 관장 역
+최준영 - 남교환 역
+이설 - 강지연 역
+최덕문 - 장 사장 역
 
-This is in contrast to today's more common concurrency model, in which OS threads are employed. Thread-based networking is relatively inefficient and very difficult to use. Furthermore, users of Node.js are free from worries of dead-locking the process, since there are no locks. Almost no function in Node.js directly performs I/O, so the process never blocks except when the I/O is performed using synchronous methods of Node.js standard library. Because nothing blocks, scalable systems are very reasonable to develop in Node.js.
+<요약>
 
-If some of this language is unfamiliar, there is a full article on Blocking vs. Non-Blocking.
+한때 복싱 챔피언 유망주로 화려하게 주목 받던 전직 프로복서 ‘병구’(엄태구). 그러나 한 순간의 지울 수 없는 실수로 복싱협회에서 영구 제명이 되어버린 그는
+‘박관장’(김희원)의 배려로 체육관의 허드렛일을 도맡아 하며 살아가고 있다. 다시 복싱을 시작하려는 마음은 있지만
+설상가상 뇌세포가 손상되는 ‘펀치드렁크(punchdrunk)’ 진단까지 받게 된 ‘병구’.
+어느 날 ‘병구’가 뿌린 전단지를 들고 체육관을 찾은 신입관원 ‘민지’(이혜리)는 복싱에 대한 ‘병구’의 순수한 열정을 발견하고 그의 든든한 지원군이 되어준다.
+‘민지’의 응원에 잊고 있었던 미완의 꿈이자 자신만의 스타일인 ‘판소리 복싱’을 완성하기로 결심한 ‘병구’는 생애 마지막이 될지도 모를 가장 무모한 도전을 시작한다.

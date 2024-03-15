@@ -1,9 +1,51 @@
-## What's JavaScript?
+<시놉시스>
 
-JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more about JavaScript.
+세상 바뀌는 꼴 좀 보고 싶습니다.
 
-This section is dedicated to the JavaScript language itself, and not the parts that are specific to Web pages or other host environments. For information about APIs that are specific to Web pages, please see Web APIs and DOM.
+세상을 바꾸기 위해 도전하는 네 번 낙선한 정치인 ‘김운범’ 앞에
+그와 뜻을 함께하고자 선거 전략가 ‘서창대’가 찾아온다.
 
-The standards for JavaScript are the ECMAScript Language Specification (ECMA-262) and the ECMAScript Internationalization API specification (ECMA-402). As soon as one browser implements a feature, we try to document it. This means that cases where some proposals for new ECMAScript features have already been implemented in browsers, documentation and examples in MDN articles may use some of those new features. Most of the time, this happens between the stages 3 and 4, and is usually before the spec is officially published.
+열세인 상황 속에서 서창대는 아무도 상상하지 못한 선거 전략을 펼치고
+‘김운범’은 선거에 연이어 승리하며, 당을 대표하는 대통령 후보까지 올라서게 된다.
 
-Do not confuse JavaScript with the Java programming language. Both "Java" and "JavaScript" are trademarks or registered trademarks of Oracle in the U.S. and other countries. However, the two programming languages have very different syntax, semantics, and use.
+대통령 선거를 향한 본격적인 행보가 시작되고 그들은 당선을 위해 총력을 기울인다.
+
+그러던 중 ‘김운범’ 자택에 폭발물이 터지는 사건이 발생하고
+용의자로 ‘서창대’가 지목되면서 둘의 관계는 새로운 국면을 맞이하게 되는데...
+
+치열한 선거판,
+그 중심에 있던 두 남자의 이야기가 시작된다!
+
+<등장인물>
+김운범 - 설경구
+엄창록 - 이선균
+김영호 - 유재명
+이진표 - 조우진
+
+<설정>
+때는 1960년대, 서창대가 운영하던 약방에 한 남자가 찾아온다. 그 이유인즉 본인이 키우는 닭의 달걀을 옆집 사람이 도둑질해갔는데,
+마을 이장이 그 도둑의 친척이라 본인만 무고를 한 것으로 몰려 억울하다는 것.
+이에 서창대는 남자에게 붉은 실뭉치를 쥐어주며 실로 표시를 한 닭을 옆집에 몰래 가져다놓고 마을사람들과 함께 쳐들어가 옆집사람을 도둑으로 몰라고 조언한다
+
+실을 받아챙긴 남자는 무언가를 열심히 받아적는 서창대에게 '거 약방선생 뭘 그리 적고게시오?'라고 묻지만,
+약방선생이란 말에 발끈한 서창대는 약방은 잠시 맡아둔 것일 뿐 자신은 다른 목적이 있다고 쏘아붙인 뒤 쓰던 종이를 봉투에 넣는다. 그건 바로 신인 정치인 김운범에게 보낼 편지였다.
+
+시간이 어느 정도 지나고, 선거유세를 끝내고 늦은 시간 자신의 사무실에 돌아온 김운범에게 계속 기다리던 서창대가 불쑥 찾아온다.
+김운범은 처음엔 자신은 누구 월급 줄 형편이 안된다며 그를 강제로 내보내려 하지만 창대의 세상 좀 바꿔보고 싶다는 일갈에, 끝내 그를 받아들이기로 결정한다.
+
+서창대를 영입한 뒤, 화면엔 수많은 김운범의 당선 관련 기사들이 스쳐지나가고 다시 1970년대 목포시 국회의원 선거때로 시점이 바뀐다.
+
+그 시기 3선 개헌탓에 신민당의 유력 신진인 김영호와 김운범을 견제하던 정부는 목포에서 승리하기 위해 온갖 뇌물을 살포하고
+여당 후보를 찍으면 개발 이권을 퍼주겠다고 시민들 앞에서 연설을 하거나 국무회의를 목포에서 개최하는 등 총력을 다해 여당 후보를 밀어준다.
+
+김운범과의 노선 차이로 근신중이다 다시 호출된 서창대는 이 상황을 타개하기 위한 방안을 제시하니 가장 먼저 여당에서 온 사람인척
+사람들의 집을 돌면서 정부가 나눠준 물품들이 잘못 보낸 것이라고 수거한다. 그런 후 그 물품들에 신민당이라고 붙히고 다시 유권자들에게 나눠준다.
+이에 돈을 쏟아부었는데도 지지도가 밀리자 여당 측 후보에게 이를 해결하라고 정부는 압박한다.
+결국 사람들에게 여러 물품들을 돌린 것을 알아내고 여당 측 후보가 이를 공개적인 자리에서 비판하니 김운범은 이는 자신이 한것이 아니며
+자신을 위해 이렇게까지 해주는 사람이 있다면 감사하다고 대응한다. 그렇게 김운범은 목포에서 승리를 쟁취하고 국회의원이 된다.
+
+김운범이 목포 선거에서 당선된 그 날 밤, 서창대의 집으로 두 명이 찾아온다. 그들은 김 부장과 이 실장.
+김 부장과 이 실장은 목포에서 김운범이 당선된 뒤에 서창대가 있음을 알고 그를 찾느라 너무 오래걸렸다고 말하며 서창대를 돈으로 회유하려 든다.
+서창대는 3초의 말미를 달라고 한 뒤 거절하고, 분노한 김 부장은 서창대의 광대에 총을 겨누며 살해 협박을 하는데,
+이 실장이 만류하여 김 부장은 그냥 퇴장한다.
+서창대는 이를 보고 이 실장에게 '2인자들끼리 독하게 경쟁 붙이는 오야지는 버릴 때 가차 없다'고 말하고 이 실장은 '그쪽 오야지는 다릅니까?'라고 반문한다.
