@@ -1,7 +1,7 @@
 import AdjacentPostCard from "@/components/AdjacentPostCard";
 import MarkdownViewer from "@/components/MarkdownViewer";
 import PostContent from "@/components/PostContent";
-import { getPostData } from "@/service/posts";
+import { getFeaturedPosts, getPostData } from "@/service/posts";
 import Image from "next/image";
 import {AiTwotoneCalendar} from 'react-icons/ai'
 
@@ -37,4 +37,11 @@ export default async function PostPage({params: { slug } }:Props) {
 			</section>
 		</article>
 	)
+}
+
+export async function generateStaticParams() {
+	const posts = await getFeaturedPosts();
+	return posts.map((post) => ({
+		slug: post.path
+	}))
 }
