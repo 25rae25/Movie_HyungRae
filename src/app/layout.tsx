@@ -7,7 +7,10 @@ import Footer from "@/components/Footer";
 const sans = Open_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "조형래 촬영감독",
+	title: {
+		default: '조형래의 영화블로그',
+		template: '조형래의 영화블로그 | %s'
+	},
 	description: "조형래감독 영화입니다",
 	icons: {
 		icon: '/movie.png'
